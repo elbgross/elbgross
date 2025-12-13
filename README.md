@@ -1,41 +1,44 @@
-Welcome to my GitHub! 👋  
-Here you’ll find my journey learning data analytics and applying it to understand real-world problems. 
+## **Selected Projects**
 
----
+I analyze data to understand user behavior, uncover friction points, and support
+better product and business decisions.
+
+These projects represent selected work focused on real-world data problems.
+Additional repositories document earlier exercises and experimentation.
+
+## Website UX Experiment Analysis
+**Focus:** Funnel analysis · A/B testing · User behavior  
+**Tools:** Python, Tableau 
+
+**Summary:**  
+Evaluated the impact of website UX changes by analyzing user drop-off, conversion,
+and completion time across control and test groups.
+
+🔗 [Repository](https://github.com/elbgross/ux-experiment)
+
+## Analyzing New York City Through Data
+
+A set of projects focused on extracting insights from environmental and urban data in
+New York City.
+
+- ### Breathe New York — Environmental Health Analysis
+**Tools:** Python, pandas, OpenAQ API
+
+Analyzed air pollution and environmental indicators across New York boroughs using
+real-time and historical data. Focused on particulate matter (PM2.5, PM10, PM1) to
+identify pollution patterns and health-related disparities.
+
+🔗 [Repository](https://github.com/elbgross/breathe_nyc)
 
 
-# 🗂️ Repositories Index
+- ### SafeStay — Safety & Affordability in NYC
+**Tools:** Python, SQL
 
-## 💻 Learning by Doing
+Combined crime, housing, and Airbnb data to rank New York boroughs based on safety and
+cost-efficiency. Developed a score-based model using SQL queries and aggregations to
+support data-driven travel decisions.
 
-### 🧩 **Python labs:**
-
-- [Data Structures](https://github.com/elbgross/lab-python-data-structures)
-- [Flow Control](https://github.com/elbgross/lab-python-flow-control)  
-- [Functions](https://github.com/elbgross/lab-python-functions)  
-- [List, Dict, and Set Comprehension](https://github.com/elbgross/lab-python-list-dict-set-comprehension)  
-- [Error Handling](https://github.com/elbgross/lab-python-error-handling)
+🔗 [Repository](https://github.com/elbgross/housing_nyc)
 
 
-### 🧾 **Data Wrangling through Python:**
-
-- [Pandas](https://github.com/elbgross/lab-dw-pandas)  
-- [Data Cleaning and Formatting](https://github.com/elbgross/lab-dw-data-cleaning-and-formatting)  
-- [Data Structuring and Combining](https://github.com/elbgross/lab-dw-data-structuring-and-combining)  
-- [Data Aggregation and Filtering](https://github.com/elbgross/lab-dw-data-aggregation-and-filtering)
-
-### ⚙️ **SQL labs**
-
-
-- [MySQL Database Creation](https://github.com/elbgross/lab-sql-mysql-db-creation)  
-- [Basic Queries](https://github.com/elbgross/lab-sql-basic-queries)  
-- [Aggregation and Transformation](https://github.com/elbgross/lab-sql-aggregation-and-transformation)  
-- [Joins](https://github.com/elbgross/lab-sql-joins)  
-- [Subqueries](https://github.com/elbgross/lab-sql-subqueries)  
-- [Temporary Tables, Views & CTEs](https://github.com/elbgross/lab-sql-temp-tables-views-ctes)  
-- [Python–SQL Connection](https://github.com/elbgross/lab-sql-python-connection)
-
-### 📊 **Tableau**
-- [Intro to Tableau](https://github.com/elbgross/tableu-lab)
-- [Tableau Advanced](https://github.com/elbgross/lab-tableau-advanced) 
 
